@@ -45,12 +45,4 @@ Enhancing performance by parallel processing and hardware acceleration.
 - **Multithreaded matrix multiplication**
 - **GPU-accelerated convolutional operations**
 
-## Getting Started
 
-To build and use this library, clone the repository and compile the C files.
-
-```bash
-git clone https://github.com/yourusername/ai-math-ml-library.git
-cd ai-math-ml-library
-gcc -o your_program main.c -lm
-./your_program
