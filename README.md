@@ -1,4 +1,4 @@
-
+AI Math, Machine Learning, CNN, and NLP Library in C
 Here’s the updated README.md file with more readable sections and included AI functions, CNN, and NLP components for your GitHub repository:
 
 AI Math, Machine Learning, CNN, and NLP Library in C
